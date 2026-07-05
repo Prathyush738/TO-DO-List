@@ -1,15 +1,15 @@
 # TO-DO-List
 [README_todo_list.md](https://github.com/user-attachments/files/29672218/README_todo_list.md)
-<img width="1919" height="1019" alt="TO-DO LIST" src="https://github.com/user-attachments/assets/e9e2b409-c0d6-451c-8990-51339b002cc2" />
+
 # ✅ To-Do List
 
-**Intern ID:**CITS3124
-**NAME:**PRATHYUSH PRASAD
-**NO.OF WEEKS:**1
+**Intern ID:** CITS3124 
+ **NAME:** PRATHYUSH PRASAD
+ **NO.OF WEEKS:** 1
 **Company:** CodeTech IT Solutions  
 **Domain:** Python Programming  
 **PROJECT NAME:** TO-DO-LIST  
-  
+  <img width="1919" height="1019" alt="TO-DO LIST" src="https://github.com/user-attachments/assets/e9e2b409-c0d6-451c-8990-51339b002cc2" />
 
 ## 📋 Project Description
 
